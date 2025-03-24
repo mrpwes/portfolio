@@ -2,8 +2,7 @@
 
 ### TODO
 https://dashboard.maraanarnieno.dev
-- [x] HomeLab Monitoring [HomeLab Dashboard](https://dashboard.maraanarnieno.dev)
-- [x] Website Projects [HomeLab Dashboard](https://dashboard.maraanarnieno.dev)
+- [x] HomeLab Monitoring / Website Projects [HomeLab Dashboard](https://dashboard.maraanarnieno.dev)
 - [x] Blog Site [blog.maraanarnieno.dev](https://dashboard.maraanarnieno.dev)
 - [ ] Transforming My Resume into an Interactive Website
 
