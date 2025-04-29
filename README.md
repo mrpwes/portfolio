@@ -1,9 +1,9 @@
 # Portfolio
 
 ### TODO
-
-- [ ] HomeLab Monitoring (UPTIMEKUMA)
-- [ ] Website Projects
+https://dashboard.maraanarnieno.dev
+- [x] HomeLab Monitoring / Website Projects [HomeLab Dashboard](https://dashboard.maraanarnieno.dev)
+- [x] Blog Site [blog.maraanarnieno.dev](https://blog.maraanarnieno.dev)
 - [ ] Transforming My Resume into an Interactive Website
 
 ### Resources Used:
